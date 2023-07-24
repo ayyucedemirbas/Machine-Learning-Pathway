@@ -6,10 +6,12 @@
    - Start by learning Python, the most widely used programming language in machine learning. You can use resources like:
      - Codecademy's Python Course: https://www.codecademy.com/learn/learn-python-3
      - Python.org's Official Tutorial: https://docs.python.org/3/tutorial/
+     - Harvard CS50’s Introduction to Programming with Python: https://cs50.harvard.edu/python/2022/
 
 2. **Object-Oriented Programming (OOP):**
    - Learn the fundamentals of OOP as it is commonly used in machine learning libraries and projects. Understand concepts like classes, objects, inheritance, and polymorphism.
    - Python OOP Tutorial: https://realpython.com/python3-object-oriented-programming/
+   - freeCodeCamp Object Oriented Programming with Python: https://www.youtube.com/watch?v=Ej_02ICOIgs
      
 #### Optional: Learning Git and Bash Basics
 
@@ -30,6 +32,7 @@
      - Khan Academy's Linear Algebra Course: https://www.khanacademy.org/math/linear-algebra
      - Khan Academy's Multivariable Calculus Course: https://www.khanacademy.org/math/multivariable-calculus
      - Coursera's Mathematics for Machine Learning Specialization: https://www.coursera.org/specializations/mathematics-machine-learning
+     -  A collection of resources to learn mathematics for machine learning: https://github.com/dair-ai/Mathematics-for-ML
 
 4. **Discrete Mathematics:**
    - Study discrete mathematics, which is important for understanding algorithms, data structures, and probability theory.
@@ -38,6 +41,7 @@
 5. **Analysis of Algorithms:**
    - Understand the fundamentals of algorithm analysis, time complexity, and space complexity, which are essential for optimizing machine learning models and algorithms.
    - MIT OpenCourseWare - Introduction to Algorithms: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/
+   - Coursera - Algorithms Specialization from Stanford University: https://www.coursera.org/specializations/algorithms
 
 6. **Introduction to Machine Learning:**
    - Enroll in a beginner-level machine learning course that covers the following subtopics:
@@ -74,6 +78,8 @@
 
    - Coursera's Machine Learning by Andrew Ng: https://www.coursera.org/learn/machine-learning
    - edX's Introduction to Machine Learning with Python: https://www.edx.org/course/machine-learning-with-python-a-practical-introduct
+   - Microsoft ML For Beginners: https://github.com/microsoft/ML-For-Beginners
+   - A curated list of Machine Learning frameworks, libraries and software: https://github.com/josephmisiti/awesome-machine-learning
 
 7. **Data Preprocessing:**
    - Learn about data preprocessing techniques such as data cleaning, feature scaling, handling missing values, and data normalization to prepare data for machine learning models.
@@ -93,6 +99,7 @@
     - Delve into the foundations of deep learning, including neural networks, activation functions, backpropagation, and optimization techniques.
     - Coursera's Deep Learning Specialization by Andrew Ng: https://www.coursera.org/specializations/deep-learning
     - Neural Networks and Deep Learning Book by Michael Nielsen: http://neuralnetworksanddeeplearning.com/
+    - A curated list of Deep Learning tutorials, projects and communities: https://github.com/ChristosChristofidis/awesome-deep-learning
 
 11. **TensorFlow and Keras:**
     - Learn how to work with deep learning frameworks like TensorFlow and Keras, which are widely used for building and training neural networks.
@@ -123,6 +130,7 @@
 
 14. **Convolutional Neural Networks (CNNs) for Computer Vision:**
     - Understand CNN architectures, transfer learning for image recognition, and object detection using CNNs.
+    - Convolutional Neural Networks, Explained: https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939
     - Fast.ai's Practical Deep Learning for Coders course: https://course.fast.ai/
     - Stanford's CS231n: Convolutional Neural Networks for Visual Recognition: http://cs231n.stanford.edu/
 
@@ -152,6 +160,7 @@
 18. **Time Series Forecasting with Deep Learning:**
     - Understand how to apply recurrent neural networks (RNNs) and LSTM models for time series forecasting.
     - TensorFlow Time Series Tutorial: https://www.tensorflow.org/tutorials/structured_data/time_series
+    - Darts Python library documentation: https://unit8co.github.io/darts/README.html
 
 19. **Audio Processing and Speech Recognition:**
     - Study audio signal processing, speech recognition, and speech-to-text applications.
@@ -168,6 +177,7 @@
 21. **MLOps:**
     - Understand the principles of MLOps and the best practices for managing the end-to-end machine learning lifecycle.
     - Continuous Integration and Continuous Deployment (CI/CD) for ML: https://cloud.google.com/architecture/architecture-for-mlops-using-tfx-kubeflow-pipelines-and-cloud-build
+    - A curated list of references for MLOps: https://github.com/visenger/awesome-mlops
 
 22. **Monitoring and Scaling ML Models:**
     - Explore techniques for monitoring model performance and scaling ML systems.
@@ -204,6 +214,7 @@
 
 28. **Contributing to Open Source Projects:**
     - Contribute to open-source deep learning projects on GitHub. This will help you gain practical experience and collaborate with others in the community.
+    - A Beginners Guide to Open Source: https://dev.to/arindam_1729/a-beginners-guide-to-open-source-4nc5
 
 #### Phase 5: Real-world Projects and Specializations
 
