@@ -1,3 +1,12 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/ayyucedemirbas/Machine-Learning-Pathway)
+![GitHub stars](https://img.shields.io/github/stars/ayyucedemirbas/Machine-Learning-Pathway?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ayyucedemirbas/Machine-Learning-Pathway?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/ayyucedemirbas?style=social)](https://twitter.com/intent/follow?screen_name=ayyucedemirbas)
+
+<br>
+
+[![en](https://img.shields.io/badge/lang-tr-red.svg)](https://github.com/ayyucedemirbas/Machine-Learning-Pathway/blob/master/readme.tr.md)
+
 # Zero-to-Hero Pathway for Machine Learning and Deep Learning
 
 #### Phase 1: Getting Started with Programming & Machine Learning
